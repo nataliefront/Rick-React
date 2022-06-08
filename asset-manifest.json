@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rick-React/static/css/main.4c615418.css",
+    "main.js": "/Rick-React/static/js/main.f271fbcb.js",
+    "static/js/787.8340e5cc.chunk.js": "/Rick-React/static/js/787.8340e5cc.chunk.js",
+    "static/media/homeTitle.png": "/Rick-React/static/media/homeTitle.666a9bf016add137708a.png",
+    "index.html": "/Rick-React/index.html",
+    "main.4c615418.css.map": "/Rick-React/static/css/main.4c615418.css.map",
+    "main.f271fbcb.js.map": "/Rick-React/static/js/main.f271fbcb.js.map",
+    "787.8340e5cc.chunk.js.map": "/Rick-React/static/js/787.8340e5cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c615418.css",
+    "static/js/main.f271fbcb.js"
+  ]
+}
